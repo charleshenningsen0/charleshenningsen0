@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## I'm a student at the University of Nebraska-Omaha studing Computer Science and Artifical Intelligence
+
+## - I'm currently learning Software Engineering, App Development Frameworks, Computer Science, Math, Piano, and more.
+
+
+
 <!--
 **charleshenningsen0/charleshenningsen0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
