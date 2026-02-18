@@ -1,20 +1,25 @@
 ## About Me
-Hello, my name is Charlie Henningsen. I am a student at the University of Nebraska-Omaha (UNO) studing Computer Science and Artificial Intelligence with a concentration in Software Engineering. I am interested in building my application development skills within frameworks like React. I enjoy learning new things, hanging out with friends, and keeping myself busy. I spend any free time I have playing basketball, guitar, piano, and reading.
 
-## Work Style and Preferences 
-I work best when given deadlines for tasks, wheather its assigned by someone else or myself. I keep a To-Do list of the projects I need to work on and make sure I get them done on time. I learn best by staying consisting and doing a little bit everyday. Time managment is important especially with my busy schedule. I make sure to allocate time everyday for specific tasks.
+Hello, my name is Charlie Henningsen. I am a student at the University of Nebraska-Omaha (UNO) studying Computer Science and Artificial Intelligence with a concentration in Software Engineering. I am interested in building my application development skills within frameworks like React. I enjoy learning new things, hanging out with friends, and keeping myself busy. I spend any free time I have playing basketball, guitar, piano, and reading.
 
-I am a good listener but I appreaciiate reminders or deadlines to make sure I get things done on time and correctly. I appreaciate feedback on my work as well and will seek out help if I need it.
+## Work Style and Preferences
+
+I work best when given deadlines for tasks, whether it's assigned by someone else or myself. I keep a To-Do list of the projects I need to work on and make sure I get them done on time. I learn best by staying consistent and doing a little bit every day. Time management is important, especially with my busy schedule. I make sure to allocate time every day for specific tasks.
+
+I am a good listener, but I appreciate reminders or deadlines to make sure I get things done on time and correctly. I appreciate feedback on my work as well and will seek out help if I need it.
 
 ## What I value
-I value hardwork and eagarness to learn. I belive that hardwork pays off. Even if you try to get 1% better everyday, over a long time, it grows into something great. I live by the Golden Rule and value kindness and empathy twoards others.
+
+I value hard work and eagerness to learn. I believe that hard work pays off. Even if you try to get 1% better every day, over a long time, it grows into something great. I live by the Golden Rule and value kindness and empathy towards others.
 
 ## Strength and Weaknesses
-My stengths include communication and dedication. I am able to work hard on something and know when I need help or guidence.
-One weakness of mine is taking on too many responsibilites or tasks. Often times I will have to stop myself and make sure I have time to take on extra responsibilites. But taking on new oppurtunities has opened so many doors for my career and life.
+
+My strengths include communication and dedication. I am able to work hard on something and know when I need help or guidance.
+One weakness of mine is taking on too many responsibilities or tasks. Oftentimes, I will have to stop myself and make sure I have time to take on extra responsibilities. But taking on new opportunities has opened so many doors for my career and life.
 
 ## Additional Info
-...
+
+…
 
 
 <!--
