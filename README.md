@@ -1,12 +1,14 @@
 ## About Me
 
-Hello, my name is Charlie Henningsen. I am a student at the University of Nebraska-Omaha (UNO) studying Computer Science and Artificial Intelligence with a concentration in Software Engineering. I am interested in building my application development skills within frameworks like React. I enjoy learning new things, hanging out with friends, and keeping myself busy. I spend any free time I have playing basketball, guitar, piano, and reading.
+Hello, my name is Charlie Henningsen. I am a student at the University of Nebraska-Omaha (UNO) studying Computer Science and Artificial Intelligence with a concentration in Software Engineering. I am interested in building my application development skills within frameworks like React. I enjoy learning new things, hanging out with friends, and keeping myself busy. I spend any free time I have playing chess, basketball, guitar, piano, and reading.
 
 ## Work Style and Preferences
 
 I work best when given deadlines for tasks, whether it's assigned by someone else or myself. I keep a To-Do list of the projects I need to work on and make sure I get them done on time. I learn best by staying consistent and doing a little bit every day. Time management is important, especially with my busy schedule. I make sure to allocate time every day for specific tasks.
 
 I am a good listener, but I appreciate reminders or deadlines to make sure I get things done on time and correctly. I appreciate feedback on my work as well and will seek out help if I need it.
+
+I am an eager learner and love to learn new things. I have always been facinated by technology and am excited I am studying it. I have learned so many things and know there is so much more out there for me to learn.
 
 ## What I value
 
@@ -15,7 +17,7 @@ I value hard work and eagerness to learn. I believe that hard work pays off. Eve
 ## Strength and Weaknesses
 
 My strengths include communication and dedication. I am able to work hard on something and know when I need help or guidance.
-One weakness of mine is taking on too many responsibilities or tasks. Oftentimes, I will have to stop myself and make sure I have time to take on extra responsibilities. But taking on new opportunities has opened so many doors for my career and life.
+One weakness of mine is taking on too many responsibilities or tasks. I am a high achiever but, oftentimesthis means I will have to stop myself and make sure I have time to take on extra responsibilities. But taking on new opportunities has opened so many doors for my career and life.
 
 ## Additional Info
 
