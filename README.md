@@ -17,7 +17,7 @@ I value hard work and eagerness to learn. I believe that hard work pays off. Eve
 ## Strength and Weaknesses
 
 My strengths include communication and dedication. I am able to work hard on something and know when I need help or guidance.
-One weakness of mine is taking on too many responsibilities or tasks. I am a high achiever but, oftentimesthis means I will have to stop myself and make sure I have time to take on extra responsibilities. But taking on new opportunities has opened so many doors for my career and life.
+One weakness of mine is taking on too many responsibilities or tasks. I am a high achiever but, oftentimes this means I will have to stop myself and make sure I have time to take on extra responsibilities. But taking on new opportunities has opened so many doors for my career and life.
 
 ## Additional Info
 
